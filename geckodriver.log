@@ -1,0 +1,15 @@
+1639315740900	geckodriver	INFO	Listening on 127.0.0.1:51391
+1639315741483	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r9/n1jmchz96wb7g50hqlpscm9c0000gq/T/rust_mozprofileljO0jI"
+2021-12-12 14:29:07.942 firefox-bin[12165:1269347] Warning: Expected min height of view: (<NSButton: 0x119b57800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-12 14:29:07.944 firefox-bin[12165:1269347] Warning: Expected min height of view: (<NSButton: 0x1298e0000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-12 14:29:07.944 firefox-bin[12165:1269347] Warning: Expected min height of view: (<NSButton: 0x1298e0400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-12 14:29:07.945 firefox-bin[12165:1269347] Warning: Expected min height of view: (<NSButton: 0x1298e1800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-12 14:29:07.946 firefox-bin[12165:1269347] Warning: Expected min height of view: (<NSButton: 0x1298e3800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-12 14:29:07.947 firefox-bin[12165:1269347] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1298df800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-12 14:29:07.947 firefox-bin[12165:1269347] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x129920000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-12 14:37:38.593 plugin-container[18090:1290716] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-12-12 14:37:38.593 plugin-container[18090:1290716] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-12-12 14:37:38.600 plugin-container[18090:1290716] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-12-12 14:37:38.600 plugin-container[18090:1290716] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-12-12 14:37:38.601 plugin-container[18090:1290715] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-12-12 14:37:38.601 plugin-container[18090:1290715] nil host used in call to allowsAnyHTTPSCertificateForHost:
